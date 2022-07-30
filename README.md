@@ -1,4 +1,4 @@
-# intension
+# intension - v0.1.0
 A procedural pattern-generating template library for tensor-like objects using the Wave Function Collapse method in Python.
 
 > Leave a star if you like this project! :)
@@ -7,7 +7,7 @@ A procedural pattern-generating template library for tensor-like objects using t
 ---
 
 ## Prerequisites
-Have Python 3.10+ installed in your system.
+Have Python 3.10.5+ installed in your system.
 Have git installed in your system.
 
 ## Clone repo
@@ -34,4 +34,4 @@ To update requirements.txt run: `python -m pip freeze > requirements.txt`
 ---
 
 ### License
-Licensed under [GNU v3](LICENSE)
+Licensed under [GPL v3](LICENSE)
