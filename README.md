@@ -11,7 +11,7 @@ Have Python 3.10+ installed in your system.
 Have git installed in your system.
 
 ## Clone repo
-Clone the repo using this command `git clone https://github.com/Danie12345/sample-ai.git`
+Clone the repo using this command `git clone https://github.com/Danie12345/intension.git`
 
 ## Try it
 Navigate to the repo directory on a new terminal.
