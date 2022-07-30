@@ -11,6 +11,7 @@ class Blok:
         self.btm = None
         self.lef = None
         self.rgh = None
+        self.connected = False
 
     def __repr__(self):
         return self.val

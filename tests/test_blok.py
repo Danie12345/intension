@@ -12,4 +12,4 @@ def test_blok():
     blok_subject.set_value('🤨')
     assert blok_subject.val == '🤨'
 
-    assert blok_subject.connected
+    assert blok_subject.connected is False
