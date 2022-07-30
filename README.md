@@ -26,6 +26,14 @@ To update requirements.txt run: `python -m pip freeze > requirements.txt`
 
 > For more help see the [docs](https://docs.python.org/3/installing/index.html) on virtual environments and how to install from requirements [here](https://stackoverflow.com/questions/7225900/how-can-i-install-packages-using-pip-according-to-the-requirements-txt-file-from).
 
+## Testing
+To run all tests run: `pytest tests/ --verbose`
+
+## Linters
+To use pylint run: `pylint intension`
+
+To fix errors with autopep8 run: `autopep8 -i -a -a intension/filepath`
+
 ---
 
 ## Author
