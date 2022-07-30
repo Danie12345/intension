@@ -4,3 +4,4 @@ from intension import blok
 def test_blok():
     b = blok.Blok([1, 1])
     assert b.top == None
+    assert b.coords == [1, 1]

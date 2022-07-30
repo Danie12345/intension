@@ -5,7 +5,7 @@ class Blok:
     """Blok is the simplest unit of the tensor. It takes in an array that describes coordinates."""
 
     def __init__(self, coords):
-        self.i = coords
+        self.coords = coords
         self.val = None
         self.top = None
         self.btm = None
