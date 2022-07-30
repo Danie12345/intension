@@ -34,6 +34,9 @@ To use pylint run: `pylint intension`
 
 To fix errors with autopep8 run: `autopep8 -i -a -a intension/filepath`
 
+## Building
+To build the library run: `python setup.py bdist_wheel`
+
 ---
 
 ## Author
